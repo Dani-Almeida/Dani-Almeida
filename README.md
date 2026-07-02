@@ -29,6 +29,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dani-Almeida&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellecalmeida)
