@@ -5,7 +5,7 @@
 🎯 Buscando oportunidades para atuar com desenvolvimento Back-end utilizando Java e tecnologias relacionadas.
 
 
-💻 Desenvolvedora back-end  
+💻 Desenvolvendo habilidades em Java Back-end | Buscando estágio em Tecnologia
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 📚 Graduanda em Engenharia de Software  
 ☕ Movida a café, curiosidade e vontade de aprender
