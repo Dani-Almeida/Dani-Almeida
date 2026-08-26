@@ -2,7 +2,7 @@
 
 ## Bem-vindo(a) ao meu perfil! :smiley:
 
-🎯 Buscando oportunidades para atuar com desenvolvimento Back-end utilizando Java e tecnologias relacionadas.
+🎯 Estudante de Engenharia de Software | Java | Backend | IA aplicada ao desenvolvimento
 
 
 💻 Desenvolvendo habilidades em Java Back-end | Buscando estágio em Tecnologia
