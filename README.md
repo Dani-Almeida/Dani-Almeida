@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 O que estou fazendo no momento:
-- 🎓 Estudando **Engenharia de Software** (5° semestre).
+- 🎓 Estudando **Engenharia de Software** (6° semestre).
 - 💡 Focada em cursos e bootcamps na **DIO** para aprimorar minhas habilidades.
 - ☕ Aprofundando meus conhecimentos em **Java**.
 - 🤖 Iniciando uma jornada fascinante no mundo da **Inteligência Artificial**.
